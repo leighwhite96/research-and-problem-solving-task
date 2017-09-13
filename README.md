@@ -6,7 +6,7 @@ Questions
 
 1. How do you get an element&#39;s ID
 
-                                               document.getElementById('id')
+                                               document.getElementById('id').id
 
 2. How do you create a h1 tag
 
