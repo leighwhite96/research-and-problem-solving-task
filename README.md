@@ -16,7 +16,7 @@ Questions
 
 3. How do you add a class to an element
 
-
+              This is if there's already a class.... 
           Add an ID to your element to make it easier to select. document.getElementById("div1").className += " otherclass";
 
 
